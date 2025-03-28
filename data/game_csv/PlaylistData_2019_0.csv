@@ -1,0 +1,130 @@
+PLAY #,ODK,DN,DIST,HASH,YARD LN,PLAY TYPE,RESULT,GN/LS,OFF FORM,OFF PLAY,OFF STR,PLAY DIR,GAP,PASS ZONE,DEF FRONT,COVERAGE,BLITZ,QTR
+1,K,--,--,M,-40,KO,Return,--,--,--,--,--,--,--,--,--,--,1
+2,D,1,10,R,-37,Run,Penalty,-5,DOUBLES,--,BAL,R,--,--,--,--,--,1
+3,D,1,15,R,-32,Pass,"Complete, TD",68,DOUBLES,--,BAL,L,--,--,--,--,--,1
+4,K,--,--,M,3,Extra Pt. Block,Block,--,--,--,--,--,--,--,--,--,--,1
+5,K,--,--,R,-40,KO Rec,Out of Bounds,--,--,--,--,--,--,--,--,--,--,1
+6,O,1,10,L,-35,Run,Rush,4,--,Michigan ME,L,R,--,--,--,--,--,1
+7,O,2,6,M,-39,Run,Rush,2,DOUBLES,Lazor 3 Oregon,BAL,L,--,--,--,--,--,1
+8,O,3,4,L,-41,Run,Rush,23,Wing Split,1 DUCK,R,R,--,--,--,--,--,1
+9,O,1,10,R,36,Run,Rush,1,Twins,2 Tiger,R,R,--,--,--,--,--,1
+10,O,2,9,R,35,Pass,Incomplete,0,Trips,Boot Lasso,L,L,--,--,--,--,--,1
+11,O,3,9,R,35,Run,Rush,-12,Trips Pinch,3 Tunnel Left,L,L,--,--,--,--,--,1
+12,K,4,21,M,47,Punt,Return,--,--,--,--,--,--,--,--,--,--,1
+13,D,1,10,L,-23,Run,Rush,1,DOUBLES,--,BAL,R,--,--,--,--,--,1
+14,D,2,9,M,-24,Run,Rush,11,DOUBLES,--,BAL,L,--,--,--,--,--,1
+15,D,1,10,L,-35,Run,Rush,0,DOUBLES,--,BAL,L,--,--,--,--,--,1
+16,D,2,10,L,-35,Pass,Penalty,10,DOUBLES,--,BAL,L,--,--,--,--,--,1
+17,D,2,10,L,-45,Pass,Incomplete,0,DOUBLES,--,BAL,R,--,--,--,--,--,1
+18,D,2,10,L,-45,Run,Rush,5,Twins Split,--,R,L,--,--,--,--,--,1
+19,D,3,5,L,50,Pass,Complete,20,Twins Split,--,R,R,--,--,--,--,--,1
+20,D,1,10,R,30,Run,Rush,3,PRO,--,R,R,--,--,--,--,--,1
+21,D,2,7,R,27,Run,Rush,8,Twins Split,--,L,L,--,--,--,--,--,1
+22,D,1,10,L,19,--,Penalty,-10,PRO,--,R,--,--,--,--,--,--,1
+23,D,1,20,L,29,Run,Rush,4,PRO,--,R,R,--,--,--,--,--,1
+24,D,2,16,M,25,Pass,Incomplete,0,Twins Split,--,L,L,--,--,--,--,--,1
+25,D,3,16,M,25,Run,Rush,0,DOUBLES,--,BAL,L,--,--,--,--,--,1
+26,D,4,16,L,25,Pass,Incomplete,0,DOUBLES,--,BAL,L,--,--,--,--,--,1
+27,O,1,10,M,-25,Run,Rush,8,DOUBLES,Flame 1 Florida pride,BAL,R,--,--,--,--,--,1
+28,O,2,2,R,-33,--,Penalty,-6,Twins Split,--,R,--,--,--,--,--,--,1
+29,O,2,8,R,-27,Pass,Incomplete,0,Doubles Wing,flame scat 3 lightning,R,R,--,--,--,--,--,1
+30,O,3,8,R,-27,Pass,Complete,42,DOUBLES,Sissors,BAL,L,--,--,--,--,--,1
+31,O,1,10,L,31,Run,Rush,5,DOUBLES,Fire 1 Gator Pride,BAL,R,--,--,--,--,--,1
+32,O,2,5,L,26,Run,Rush,19,Trips,2 GOPHER,R,R,--,--,--,--,--,1
+33,O,1,7,M,7,Run,"Rush, TD",7,Double Split,2 Badger Base,BAL,R,--,--,--,--,--,1
+34,K,1,--,M,3,Extra Pt.,Good,--,--,--,--,--,--,--,--,--,--,1
+35,K,--,--,M,-40,KO,Return,--,--,--,--,--,--,--,--,--,--,1
+36,D,1,10,M,-27,Run,Rush,1,Twins Split,--,R,R,--,--,--,--,--,1
+37,D,2,9,R,-28,Pass,Complete,10,Twins Split,--,R,L,--,--,--,--,--,2
+38,D,1,10,M,-38,Run,Rush,1,Twins Split,--,R,L,--,--,--,--,--,2
+39,D,2,9,L,-39,Pass,Complete,14,Twins Split,--,R,L,--,--,--,--,--,2
+40,D,1,10,L,47,Run,Rush,3,Trips,--,R,R,--,--,--,--,--,2
+41,D,2,7,M,44,Run,Rush,0,Trips,--,R,L,--,--,--,--,--,2
+42,D,3,7,L,44,--,Timeout,0,--,--,--,--,--,--,--,--,--,2
+43,D,3,7,L,44,--,Penalty,0,--,--,--,--,--,--,--,--,--,2
+44,D,3,7,L,44,Pass,Interception,--,--,--,--,R,--,--,--,--,--,2
+45,O,1,10,L,20,Pass,Complete,17,Doubles Wing,Fire 3 Duck,L,R,--,--,--,--,--,2
+46,O,1,3,R,3,Run,"Rush, TD",3,Wing Split,1 OREGON,L,L,--,--,--,--,--,2
+47,K,1,--,M,3,Extra Pt.,Block,--,--,--,--,--,--,--,--,--,--,2
+48,K,--,--,M,-40,KO,Return,--,--,--,--,--,--,--,--,--,--,2
+49,D,1,10,L,-29,Run,Rush,1,Twins Split,--,R,L,--,--,--,--,--,2
+50,D,2,9,L,-30,Run,Rush,2,Twins Split,--,R,R,--,--,--,--,--,2
+51,D,3,7,L,-32,Run,Rush,9,Twins Split,--,R,R,--,--,--,--,--,2
+52,D,1,10,R,-41,Run,Rush,3,Twins Split,--,R,L,--,--,--,--,--,2
+53,D,2,7,L,-44,Run,Rush,4,Twins Split,--,L,R,--,--,--,--,--,2
+54,D,3,3,M,-48,Run,Rush,-3,Twins Split,--,L,R,--,--,--,--,--,2
+55,K,4,6,R,-45,Punt Rec,Downed,--,--,--,--,--,--,--,--,--,--,2
+56,O,1,10,L,-21,Run,Rush,5,Twins Split,Wolverine Ice,R,R,--,--,--,--,--,2
+57,O,2,5,M,-26,Run,Rush,6,Twins Split,Michigan Ice,R,L,--,--,--,--,--,2
+58,O,1,10,L,-32,Run,Rush,53,Wing Split,2 Badger Base,R,R,--,--,--,--,--,2
+59,O,1,10,R,15,Run,Rush,6,Twins Split,Flame 1 TIGER,R,R,--,--,--,--,--,2
+60,O,2,4,R,9,Run,Rush,1,Double Split,2 MICHIGAN ICE,BAL,L,--,--,--,--,--,2
+61,O,3,3,R,8,Run,"Rush, TD",8,Double Split,Zip 3 Oregon,BAL,L,--,--,--,--,--,2
+62,K,--,--,M,3,Extra Pt.,Good,--,--,--,--,--,--,--,--,--,--,2
+63,K,--,--,M,-40,KO,Return,--,--,--,--,--,--,--,--,--,--,2
+64,D,1,10,L,-31,Pass,Penalty,-5,DOUBLES,--,BAL,L,--,--,--,--,--,2
+65,D,1,15,L,-26,Pass,Interception,--,DOUBLES,--,BAL,R,--,--,--,--,--,2
+66,O,1,10,L,45,Pass,Complete,35,Trips,3 Money 2 Bubble Bob,R,R,--,--,--,--,--,2
+67,O,1,10,L,10,Run,Penalty,-10,Wing Split,--,L,L,--,--,--,--,--,2
+68,O,1,20,M,20,Pass,Incomplete,0,Trips,Boot Lasso,L,L,--,--,--,--,--,2
+69,O,2,20,M,20,Run,Rush,9,Double Split,2 Badger,BAL,R,--,--,--,--,--,2
+70,K,3,11,R,11,FG,No Good,--,--,--,--,--,--,--,--,--,--,2
+71,K,--,--,R,-40,KO Rec,Return,--,--,--,--,--,--,--,--,--,--,3
+72,O,1,10,R,-31,--,Penalty,-5,--,--,--,--,--,--,--,--,--,3
+73,O,1,15,R,-26,Run,Rush,8,Twins Split,3 Wisconsin Option,L,R,--,--,--,--,--,3
+74,O,2,7,R,-34,Run,Rush,5,--,3 Wisconsin Option,--,L,--,--,--,--,--,3
+75,O,3,2,L,-39,Run,Rush,5,Twins Split,2 Badger Base,R,R,--,--,--,--,--,3
+76,O,1,10,R,-44,Run,Penalty,-5,Twins Split,--,L,L,--,--,--,--,--,3
+77,O,1,15,R,-39,--,Penalty,-5,Twins Split,--,L,--,--,--,--,--,--,3
+78,O,1,20,R,-34,Pass,Incomplete,0,Trips,X Money,L,L,--,--,--,--,--,3
+79,O,2,20,R,-34,Run,Rush,15,Trips,1 DRAW,L,R,--,--,--,--,--,3
+80,O,3,5,R,-49,Pass,Complete,13,Ace Twins,Choice Bob,L,R,--,--,--,--,--,3
+81,O,1,10,R,38,Run,Rush,9,Twins Split,3 Wisconin Option,L,R,--,--,--,--,--,3
+82,O,2,1,R,29,Run,Rush,-8,DOUBLES,2 Wisconsin Backside,BAL,R,--,--,--,--,--,3
+83,O,3,9,R,37,Run,Rush,13,Double Split,Zip 3 Oregon,BAL,L,--,--,--,--,--,3
+84,O,1,10,M,24,Run,"Rush, TD",24,DOUBLES,Fire 1 Gator Pride,BAL,L,--,--,--,--,--,3
+85,K,1,--,M,3,Extra Pt.,Good,--,--,--,--,--,--,--,--,--,--,3
+86,K,--,--,M,-40,KO,Return,--,--,--,--,--,--,--,--,--,--,3
+87,D,1,10,R,-24,Run,Rush,11,Twins Split,--,R,R,--,--,--,--,--,3
+88,D,1,10,R,-35,Run,Rush,0,Twins Split,--,L,L,--,--,--,--,--,3
+89,D,2,10,L,-35,Pass,Complete,16,DOUBLES,--,BAL,R,--,--,--,--,--,3
+90,D,1,10,M,49,Run,Rush,-3,DOUBLES,--,BAL,R,--,--,--,--,--,3
+91,D,2,13,M,-48,Pass,Complete,5,DOUBLES,--,BAL,R,--,--,--,--,--,3
+92,O,1,10,R,36,Run,Rush,1,Trips,2 MINNESOTA,L,L,--,--,--,--,--,3
+93,O,2,9,M,35,Run,Fumble,24,Trips,2 Wisconin,R,R,--,--,--,--,--,3
+94,D,1,10,L,-11,Run,Rush,6,Twins Split,--,R,R,--,--,--,--,--,3
+95,D,2,4,R,-17,Run,Penalty,-6,Twins Split,--,R,R,--,--,--,--,--,3
+96,D,2,10,R,-11,Pass,Sack,-3,DOUBLES,--,BAL,L,--,--,--,--,--,4
+97,D,3,13,M,-8,Pass,Incomplete,0,DOUBLES,--,BAL,L,--,--,--,--,--,4
+98,K,4,13,L,-8,Punt Rec,Downed,--,--,--,--,--,--,--,--,--,--,4
+99,O,1,10,R,39,Run,Rush,0,Twins Split,2 OREGON,R,L,--,--,--,--,--,4
+100,O,2,10,L,39,Run,Rush,2,Twins Split,3 Badger Option,R,R,--,--,--,--,--,4
+101,O,3,8,M,37,Run,Rush,-1,Twins Split,Fire x Lightning,L,L,--,--,--,--,--,4
+102,K,4,9,L,38,Punt,Downed,--,--,--,--,--,--,--,--,--,--,4
+103,D,1,10,R,-18,Pass,Incomplete,0,DOUBLES,--,BAL,L,--,--,--,--,--,4
+104,D,2,10,R,-18,Pass,Incomplete,0,DOUBLES,--,BAL,R,--,--,--,--,--,4
+105,D,3,10,R,-18,Pass,Complete,2,DOUBLES,--,BAL,R,--,--,--,--,--,4
+106,D,4,8,R,-20,--,Timeout,0,--,--,--,--,--,--,--,--,--,4
+107,K,4,8,R,-20,Punt Rec,Downed,--,--,--,--,--,--,--,--,--,--,4
+108,O,1,10,M,-42,Run,Rush,11,Twins Split,3 Wisconsin Option,L,L,--,--,--,--,--,4
+109,O,1,10,M,47,Run,Rush,4,Twins Split,2 MICHIGAN ICE,L,L,--,--,--,--,--,4
+110,O,2,6,L,43,Run,Rush,9,Twins Split,2 MICHIGAN ICE,R,L,--,--,--,--,--,4
+111,O,1,10,L,34,Run,Rush,13,Double Split,2 Badger Base,BAL,R,--,--,--,--,--,4
+112,O,1,10,M,21,Run,Rush,6,Twins Split,3 Wisconin Option,L,L,--,--,--,--,--,4
+113,O,2,4,L,15,Run,Rush,0,--,1 DUCK,--,R,--,--,--,--,--,4
+114,O,3,4,R,15,Run,Rush,3,Twins Split,3 Wisconsin Option,L,L,--,--,--,--,--,4
+115,O,4,1,R,12,Run,"Rush, TD",12,Twins Split,1 OREGON,L,L,--,--,--,--,--,4
+116,K,1,--,M,3,Extra Pt.,Good,--,--,--,--,--,--,--,--,--,--,4
+117,K,--,--,M,-40,KO,Return,--,--,--,--,--,--,--,--,--,--,4
+118,D,1,10,M,-10,Run,Rush,-2,DOUBLES,--,BAL,R,--,--,--,--,--,4
+119,D,2,12,R,-8,Pass,Penalty,-5,DOUBLES,--,BAL,L,--,--,--,--,--,4
+120,D,2,17,M,-3,Pass,Incomplete,0,DOUBLES,--,BAL,R,--,--,--,--,--,4
+121,D,3,17,M,-3,Pass,Incomplete,0,DOUBLES,--,BAL,R,--,--,--,--,--,4
+122,K,4,17,M,-3,Punt Rec,Out of Bounds,--,--,--,--,--,--,--,--,--,--,4
+123,O,1,10,L,27,Run,Rush,0,DOUBLES,2 WISCONSIN,BAL,L,--,--,--,--,--,4
+124,O,2,10,L,27,Run,Rush,3,DOUBLES,Fire 2 Auburn,BAL,L,--,--,--,--,--,4
+125,O,3,7,L,24,Run,Rush,3,DOUBLES,2 Badger,BAL,R,--,--,--,--,--,4
+126,O,4,4,L,21,Run,Rush,0,Twins Split,2 MICHIGAN ICE,L,L,--,--,--,--,--,4
+127,D,1,10,R,-21,Pass,Complete,10,DOUBLES,--,BAL,L,--,--,--,--,--,4
+128,D,1,10,R,-31,Pass,Penalty,-15,DOUBLES,--,BAL,R,--,--,--,--,--,4
+129,D,1,10,R,-16,Run,Rush,24,DOUBLES,--,BAL,L,--,--,--,--,--,4

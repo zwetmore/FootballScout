@@ -1,0 +1,152 @@
+PLAY #,ODK,DN,DIST,HASH,YARD LN,PLAY TYPE,RESULT,GN/LS,OFF FORM,OFF PLAY,OFF STR,PLAY DIR,GAP,PASS ZONE,DEF FRONT,COVERAGE,BLITZ,QTR
+1,K,--,--,M,-40,KO,Return,--,--,--,--,--,--,--,--,--,--,1
+2,D,1,10,R,-23,Run,Rush,7,DOUBLES,--,BAL,R,--,--,--,--,--,1
+3,D,2,3,R,-30,Pass,Incomplete,0,DOUBLES,--,BAL,L,--,--,--,--,--,1
+4,D,3,3,R,-30,Pass,Complete,5,DOUBLES,--,BAL,R,--,--,--,--,--,1
+5,D,1,10,R,-35,Run,Penalty,-5,Trips,--,L,R,--,--,--,--,--,1
+6,D,1,15,R,-30,Pass,Complete,6,DOUBLES,--,BAL,L,--,--,--,--,--,1
+7,D,2,9,L,-36,Pass,Complete,10,DOUBLES,--,BAL,R,--,--,--,--,--,1
+8,D,1,10,R,-46,Pass,Complete,8,DOUBLES PINCH,--,BAL,R,--,--,--,--,--,1
+9,D,2,2,R,46,Run,Rush,6,DOUBLES PINCH,--,BAL,R,--,--,--,--,--,1
+10,D,1,10,R,40,Run,Rush,6,DOUBLES PINCH,--,BAL,L,--,--,--,--,--,1
+11,D,2,4,L,34,Run,Rush,-4,DOUBLES,--,BAL,R,--,--,--,--,--,1
+12,D,3,8,M,38,Pass,Complete,20,DOUBLES,--,BAL,L,--,--,--,--,--,1
+13,D,1,10,L,18,Pass,"Complete, TD",18,DOUBLES PINCH,--,BAL,R,--,--,--,--,--,1
+14,K,--,--,M,3,Extra Pt. Block,Good,--,--,--,--,--,--,--,--,--,--,1
+15,K,--,--,M,-40,KO Rec,Return,--,--,--,--,--,--,--,--,--,--,1
+16,O,1,10,R,-45,--,Penalty,6,ACE,--,BAL,--,--,--,--,--,--,1
+17,O,1,4,R,49,--,Penalty,5,Wing Split,--,L,--,--,--,--,--,--,1
+18,O,1,10,R,44,Run,Rush,-8,Wing Split,--,L,L,--,--,--,--,--,1
+19,O,2,18,L,-48,Run,Rush,-3,PRO,--,R,R,--,--,--,--,--,1
+20,O,3,21,M,-45,Pass,Incomplete,0,Double Wing,--,BAL,R,--,--,--,--,--,1
+21,K,4,21,M,-45,Punt,Return,--,--,--,--,--,--,--,--,--,--,1
+22,D,1,10,M,-13,Run,Rush,9,DOUBLES,--,BAL,R,--,--,--,--,--,1
+23,D,2,1,R,-22,Run,Rush,0,Trips,--,L,R,--,--,--,--,--,1
+24,D,3,1,R,-22,Run,Rush,2,DOUBLES PINCH,--,BAL,L,--,--,--,--,--,1
+25,D,1,10,R,-24,Run,Rush,10,DOUBLES PINCH,--,BAL,R,--,--,--,--,--,1
+26,D,1,10,R,-34,Run,Rush,-2,DOUBLES,--,BAL,L,--,--,--,--,--,1
+27,D,2,12,M,-32,Pass,Complete,8,DOUBLES,--,BAL,R,--,--,--,--,--,1
+28,D,3,4,R,-40,Pass,Incomplete,0,DOUBLES,--,BAL,L,--,--,--,--,--,1
+29,K,4,4,R,-40,Punt Rec,Downed,--,--,--,--,--,--,--,--,--,--,1
+30,O,1,10,R,-29,Run,Rush,4,Double Wing,--,BAL,L,--,--,--,--,--,1
+31,O,2,6,M,-33,Run,Rush,3,DOUBLES PINCH,--,BAL,R,--,--,--,--,--,1
+32,O,3,3,M,-36,Pass,Complete,9,DOUBLES PINCH,--,BAL,R,--,--,--,--,--,1
+33,O,1,10,R,-45,Run,Fumble,4,Trips,--,L,L,--,--,--,--,--,1
+34,O,1,10,R,-49,Run,Rush,12,Double Wing,--,BAL,L,--,--,--,--,--,2
+35,O,1,10,L,39,Run,Rush,8,Twins Split,--,L,L,--,--,--,--,--,2
+36,O,2,2,L,31,Run,Fumble,4,Twins Split,--,L,R,--,--,--,--,--,2
+37,D,1,10,L,-27,Pass,Incomplete,0,DOUBLES,--,BAL,R,--,--,--,--,--,2
+38,D,2,10,L,-27,--,Penalty,-5,DOUBLES,--,BAL,--,--,--,--,--,--,2
+39,D,2,10,L,-22,Run,Rush,3,DOUBLES,--,BAL,L,--,--,--,--,--,2
+40,D,3,7,L,-25,Pass,Complete,13,DOUBLES,--,BAL,L,--,--,--,--,--,2
+41,D,1,10,L,-38,--,Penalty,-5,Twins Split,--,R,--,--,--,--,--,--,2
+42,D,1,15,L,-33,Run,Rush,7,Twins Split,--,L,L,--,--,--,--,--,2
+43,D,2,8,L,-40,Pass,Incomplete,0,PRO,--,R,R,--,--,--,--,--,2
+44,D,3,8,L,-40,Pass,Complete,13,--,--,--,R,--,--,--,--,--,2
+45,D,1,10,R,47,Run,Rush,11,Twins Split,--,R,R,--,--,--,--,--,2
+46,D,1,10,R,36,Run,Rush,5,Twins,--,L,R,--,--,--,--,--,2
+47,D,2,5,R,31,Pass,Incomplete,0,Twins,--,L,L,--,--,--,--,--,2
+48,D,3,5,R,31,Run,Rush,12,Twins Split,--,R,R,--,--,--,--,--,2
+49,D,1,10,R,19,Run,Rush,6,Double Tight,--,BAL,L,--,--,--,--,--,2
+50,D,2,4,L,13,Run,Rush,0,Double Tight,--,BAL,R,--,--,--,--,--,2
+51,D,3,4,M,13,Run,Rush,3,Double Tight,--,BAL,R,--,--,--,--,--,2
+52,D,4,1,R,10,Run,Rush,1,Double Tight,--,BAL,R,--,--,--,--,--,2
+53,D,1,9,R,9,Pass,Incomplete,0,Double Tight,--,BAL,R,--,--,--,--,--,2
+54,D,2,9,R,9,Run,Fumble,1,DOUBLES PINCH,--,BAL,R,--,--,--,--,--,2
+55,O,1,10,L,-8,Run,Rush,9,Wing Split,--,R,R,--,--,--,--,--,2
+56,O,2,1,M,-17,Run,Rush,0,Twins Split,--,L,L,--,--,--,--,--,2
+57,O,3,1,L,-17,Run,Rush,0,Doubles Wing,--,L,R,--,--,--,--,--,2
+58,O,4,1,L,-17,--,Timeout,0,--,--,--,--,--,--,--,--,--,2
+59,K,4,1,L,-17,Punt,Downed,--,--,--,--,--,--,--,--,--,--,2
+60,D,1,10,R,-49,Pass,Incomplete,0,Trips,--,L,L,--,--,--,--,--,2
+61,D,2,10,R,-49,Pass,Incomplete,0,Trips,--,L,R,--,--,--,--,--,2
+62,D,3,10,R,-49,Pass,Scramble,6,Trips,--,L,R,--,--,--,--,--,2
+63,K,4,4,R,45,Punt Rec,Return,--,--,--,--,--,--,--,--,--,--,2
+64,O,1,10,L,-22,Pass,Incomplete,0,Ace Twins,--,L,L,--,--,--,--,--,2
+65,O,2,10,L,-22,Pass,Complete,3,Trips,--,R,R,--,--,--,--,--,2
+66,O,3,7,R,-25,Run,Rush,5,Trips,--,R,R,--,--,--,--,--,2
+67,K,4,2,R,-30,Punt,Return,--,--,--,--,--,--,--,--,--,--,2
+68,D,1,10,L,49,Run,Rush,-1,DOUBLES,--,BAL,L,--,--,--,--,--,2
+69,D,2,11,L,50,Pass,Incomplete,0,DOUBLES,--,BAL,L,--,--,--,--,--,2
+70,D,3,11,L,50,Pass,Incomplete,0,DOUBLES,--,BAL,L,--,--,--,--,--,2
+71,K,4,11,L,50,Fake Punt,Rush,13,--,--,--,R,--,--,--,--,--,2
+72,D,1,10,R,37,Run,Rush,2,--,--,--,L,--,--,--,--,--,2
+73,D,2,8,L,35,Pass,Complete,-19,DOUBLES,--,BAL,R,--,--,--,--,--,2
+74,D,3,27,L,-46,Pass,Complete,11,Trips,--,R,R,--,--,--,--,--,2
+75,K,4,16,M,-40,Onside Kick,Return,--,--,--,--,--,--,--,--,--,--,3
+76,O,1,10,R,-38,Run,Rush,4,Double Wing,--,BAL,R,--,--,--,--,--,3
+77,O,2,6,R,-42,Run,Rush,2,DOUBLES,--,BAL,R,--,--,--,--,--,3
+78,O,3,4,R,-44,Run,Rush,-1,Double Wing,--,BAL,R,--,--,--,--,--,3
+79,K,4,5,R,-43,Punt,Return,--,--,--,--,--,--,--,--,--,--,3
+80,D,1,10,L,-32,Pass,Complete,-3,DOUBLES,--,BAL,L,--,--,--,--,--,3
+81,D,2,13,L,-29,Run,Rush,2,DOUBLES,--,BAL,R,--,--,--,--,--,3
+82,D,3,11,M,-31,Run,Penalty,3,DOUBLES,--,BAL,R,--,--,--,--,--,3
+83,D,3,8,R,-34,Pass,Scramble,3,DOUBLES,--,BAL,L,--,--,--,--,--,3
+84,D,4,5,L,-37,--,Timeout,0,--,--,--,--,--,--,--,--,--,3
+85,K,4,5,L,-37,Punt Rec,Return,--,--,--,--,--,--,--,--,--,--,3
+86,O,1,10,R,-46,Pass,Incomplete,0,Ace Twins,--,L,R,--,--,--,--,--,3
+87,O,2,10,R,-46,Pass,Complete,12,DOUBLES,--,BAL,L,--,--,--,--,--,3
+88,O,1,10,L,42,Run,Rush,19,Wing Split,--,R,R,--,--,--,--,--,3
+89,O,1,10,R,23,Run,"Rush, TD",23,Double Split,--,BAL,L,--,--,--,--,--,3
+90,K,--,--,M,3,Extra Pt.,Good,--,--,--,--,--,--,--,--,--,--,3
+91,K,--,--,M,-40,KO,Penalty,--,--,--,--,--,--,--,--,--,--,3
+92,S,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,3
+93,D,1,10,R,-35,Pass,Complete,14,DOUBLES PINCH,--,BAL,L,--,--,--,--,--,3
+94,D,1,10,L,-49,Pass,Penalty,-18,DOUBLES PINCH,--,BAL,R,--,--,--,--,--,3
+95,D,1,28,M,-31,Pass,Sack,0,DOUBLES PINCH,--,BAL,L,--,--,--,--,--,3
+96,D,2,28,M,-31,Pass,Incomplete,0,DOUBLES,--,BAL,L,--,--,--,--,--,3
+97,D,3,28,M,-31,Run,Rush,-3,DOUBLES,--,BAL,R,--,--,--,--,--,3
+98,K,4,31,R,-28,Punt Rec,Downed,--,--,--,--,--,--,--,--,--,--,3
+99,O,1,10,M,-37,Pass,Incomplete,0,Twins Split,--,R,L,--,--,--,--,--,3
+100,O,2,10,M,-37,Run,Rush,10,Twins Split,--,L,R,--,--,--,--,--,3
+101,O,1,10,R,-47,Run,Rush,2,Wing Split,--,R,L,--,--,--,--,--,3
+102,O,2,8,M,-49,Run,Rush,-7,PRO,--,L,R,--,--,--,--,--,3
+103,O,3,15,R,-42,Pass,Complete,10,Double Wing,--,BAL,R,--,--,--,--,--,3
+104,O,4,5,R,48,Run,Rush,7,Double Wing,--,BAL,L,--,--,--,--,--,3
+105,O,1,10,L,41,Pass,Complete,16,Double Wing,--,BAL,R,--,--,--,--,--,3
+106,O,1,10,R,25,Run,Penalty,-12,Wing Split,--,R,R,--,--,--,--,--,3
+107,O,1,22,R,37,Run,Rush,4,Trips,--,L,R,--,--,--,--,--,3
+108,O,2,18,R,33,Pass,Complete,1,DOUBLES,--,BAL,R,--,--,--,--,--,3
+109,O,3,17,R,32,--,Penalty,-5,Doubles Wing,--,R,--,--,--,--,--,--,3
+110,O,3,22,R,37,Pass,Incomplete,0,EMPTY,--,L,L,--,--,--,--,--,3
+111,K,4,22,R,37,Punt,Downed,--,--,--,--,--,--,--,--,--,--,3
+112,D,1,10,M,-11,Run,"Rush, TD",89,DOUBLES,--,BAL,L,--,--,--,--,--,3
+113,K,--,--,M,3,Extra Pt. Block,Block,--,--,--,--,--,--,--,--,--,--,3
+114,K,--,--,M,-40,Onside Kick,Return,--,--,--,--,--,--,--,--,--,--,3
+115,O,1,10,R,49,Run,Penalty,-8,Twins Split,--,L,R,--,--,--,--,--,3
+116,O,1,18,R,-43,Run,Rush,-5,Twins Split,--,R,L,--,--,--,--,--,3
+117,O,2,23,R,-38,Run,Rush,13,DOUBLES,--,BAL,L,--,--,--,--,--,4
+118,O,3,10,L,49,Pass,Complete,17,Trips,--,R,L,--,--,--,--,--,4
+119,O,1,10,L,32,Run,Rush,1,Wing Split,--,L,R,--,--,--,--,--,4
+120,O,2,9,R,31,Run,Rush,3,Trips,--,L,L,--,--,--,--,--,4
+121,O,3,6,L,28,Pass,Incomplete,0,DOUBLES,--,BAL,L,--,--,--,--,--,4
+122,O,4,6,L,28,Pass,"Complete, TD",28,DOUBLES,--,BAL,L,--,--,--,--,--,4
+123,K,--,--,M,3,Extra Pt.,Good,--,--,--,--,--,--,--,--,--,--,4
+124,K,--,--,M,-40,KO,Return,--,--,--,--,--,--,--,--,--,--,4
+125,D,1,10,L,-30,Run,Rush,9,Trips Tight,--,L,L,--,--,--,--,--,4
+126,D,2,1,L,-39,Run,Rush,4,Trips Tight,--,R,R,--,--,--,--,--,4
+127,D,1,10,L,-43,--,Penalty,0,Trips,--,L,--,--,--,--,--,--,4
+128,D,1,10,L,-43,Run,Rush,2,Trips,--,R,L,--,--,--,--,--,4
+129,D,2,8,L,-45,Pass,Complete,0,DOUBLES,--,BAL,R,--,--,--,--,--,4
+130,D,3,8,L,-45,Run,Penalty,-17,DOUBLES,--,BAL,L,--,--,--,--,--,4
+131,D,3,25,L,-28,Pass,Incomplete,0,Trips Tight,--,L,R,--,--,--,--,--,4
+132,K,4,10,L,-28,Punt,Downed,--,--,--,--,--,--,--,--,--,--,4
+133,O,1,10,M,-40,Run,Rush,10,Twins Split,--,R,L,--,--,--,--,--,4
+134,O,1,10,L,50,Run,Rush,0,Twins Split,--,L,R,--,--,--,--,--,4
+135,O,2,10,M,50,Pass,Complete,10,Double Wing,--,BAL,L,--,--,--,--,--,4
+136,O,1,10,R,40,Run,"Rush, TD",40,Wing Split,--,L,L,--,--,--,--,--,4
+137,K,--,--,M,3,Extra Pt.,Good,--,--,--,--,--,--,--,--,--,--,4
+138,K,--,--,M,-40,KO,Return,--,--,--,--,--,--,--,--,--,--,4
+139,D,1,10,R,-25,Pass,Complete,4,Trips,--,R,R,--,--,--,--,--,4
+140,D,2,6,R,-29,Pass,Complete,2,Trips,--,L,L,--,--,--,--,--,4
+141,D,3,4,L,-31,Run,Rush,-3,Trips,--,L,L,--,--,--,--,--,4
+142,D,4,7,L,-28,Pass,Incomplete,0,DOUBLES PINCH,--,BAL,L,--,--,--,--,--,4
+143,O,1,10,R,28,Run,Rush,4,DOUBLES,--,BAL,L,--,--,--,--,--,4
+144,O,2,6,L,24,Run,Rush,2,Twins Split,--,L,R,--,--,--,--,--,4
+145,O,3,4,L,22,Run,Rush,7,Wing Split,--,R,R,--,--,--,--,--,4
+146,O,1,10,L,15,Run,"Rush, TD",15,Trips,--,R,R,--,--,--,--,--,4
+147,K,--,--,M,3,Extra Pt.,Good,--,--,--,--,--,--,--,--,--,--,4
+148,K,--,--,M,-40,KO,Return,--,--,--,--,--,--,--,--,--,--,4
+149,D,1,10,L,-30,Pass,Complete,11,DOUBLES,--,BAL,L,--,--,--,--,--,4
+150,D,1,10,L,-41,Pass,Interception,0,DOUBLES,--,BAL,R,--,--,--,--,--,4
+151,O,1,10,L,46,Run,Rush,-1,Double Split,--,BAL,R,--,--,--,--,--,4
