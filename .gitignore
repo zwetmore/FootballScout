@@ -14,8 +14,8 @@ __pycache__/
 Thumbs.db
 
 # Data
-.csv
-.xlsx
+*.csv
+*.xlsx
 
 # Other common ignores
 node_modules/
