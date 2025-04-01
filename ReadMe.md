@@ -1,9 +1,9 @@
-## Football-Data-Analysis
+## **Football Data Analysis**  
 
-This is a work in progress project for analyzing football data.
-I am not uploading the data to github as it is private to Medford Football.
-Without data it will not run. However, it still illustrates my process of data analysis.
-Emphasizing, this is not a finished product.
+This project is a **work in progress** focused on analyzing football data. While the dataset itself is **private to Medford Football** and not uploaded to GitHub, the repository showcases my **data analysis workflow**, including ETL processes, data cleaning, preprocessing, and statistical analysis.  
+
+⚠ **Note:** Without the dataset, the scripts will not execute fully, but they still provide insight into my approach and methodology.  
+
 
 ## Setup
 Run the following commands to activate the virtual environment (macOS/Linux):
